@@ -1,5 +1,5 @@
 {
-  "name": "COS-WebGallery",
+  "name": "IBMCOSWebGallery",
   "main": "app.js",
   "description": "An IBM COS Web Gallery app",
   "version": "0.1.1",
