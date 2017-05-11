@@ -1,0 +1,5 @@
+---
+applications:
+ - name: IBMCOSWebGallery
+   random-route: true
+   memory: 256M
